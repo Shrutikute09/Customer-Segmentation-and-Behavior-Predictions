@@ -53,12 +53,11 @@ This project uses the **Online Retail II dataset**, which contains transactional
 
 ## ⚙️ Setup Instructions
 
-### ** Clone the Repository**
-```bash
+### Clone the Repository 
+
 git clone https://github.com/shrutikute09/Customer-Segmentation-Prediction.git
 cd Customer-Segmentation-Prediction
 
-### **  Run Jupyter Notebooks **
-```bash
-jupyter notebook
+### Run Jupyter Notebook
 
+jupyter notebook
